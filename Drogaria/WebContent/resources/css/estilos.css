@@ -11,4 +11,14 @@
 
 .ui-widget, .ui-widget .ui-widget {
 	font-size: 12px !important;
+	text-align: center !important;
+}
+
+.ui-datatable .ui-sortable-column {
+    width: 6% !important;
+    
+}
+
+.ui-datatable .ui-column-filter {
+    width: 70% !important;
 }
